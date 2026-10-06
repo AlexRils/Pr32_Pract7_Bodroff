@@ -1,0 +1,5 @@
+1001;Ivanov;Laptop;Does not turn on;3500;In progress
+1002;Petrov;PC;Does not boot;5000;Completed
+1003;Sidorov;Laptop;Broken screen;7000;In progress
+1004;Smirnov;Phone;Broken display;2500;In progress
+1005;Kuznetsov;Phone;Broken screen;1800;Completed

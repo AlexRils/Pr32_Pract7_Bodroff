@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\ProjectC\u002B\u002B\\pract7_bodrof_pr32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB23E1E-AE75-4D02-A094-C46B4FFD8408}|pract7_bodrof_pr32\\pract7_bodrof_pr32.vcxproj|C:\\Users\\User\\ProjectC\u002B\u002B\\pract7_bodrof_pr32\\pract7_bodrof_pr32\\pract7_bodrof_pr32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BB23E1E-AE75-4D02-A094-C46B4FFD8408}|pract7_bodrof_pr32\\pract7_bodrof_pr32.vcxproj|solutionrelative:pract7_bodrof_pr32\\pract7_bodrof_pr32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 282,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pract7_bodrof_pr32.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\ProjectC\u002B\u002B\\pract7_bodrof_pr32\\pract7_bodrof_pr32\\pract7_bodrof_pr32.cpp",
+              "RelativeDocumentMoniker": "pract7_bodrof_pr32\\pract7_bodrof_pr32.cpp",
+              "ToolTip": "C:\\Users\\User\\ProjectC\u002B\u002B\\pract7_bodrof_pr32\\pract7_bodrof_pr32\\pract7_bodrof_pr32.cpp",
+              "RelativeToolTip": "pract7_bodrof_pr32\\pract7_bodrof_pr32.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-01T07:26:09.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
